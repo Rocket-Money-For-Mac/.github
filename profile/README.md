@@ -72,7 +72,7 @@ Rocket Money is trusted by millions and rated highly for its ease of use and tra
 
 ## 🖼 Preview
 
-![Rocket Money Dashboard](https://i.postimg.cc/Fzq3Cyxq/rocket-money-1.png)
+![Rocket Money Dashboard](https://framerusercontent.com/images/Je2J3DaEoJgCRfp6DSoeJAwwo4.png)
 *An overview of the dashboard with monthly spending*
 
 ![Rocket Money Subscriptions](https://i.postimg.cc/W1bZtbRM/rocket-money-2.png)
